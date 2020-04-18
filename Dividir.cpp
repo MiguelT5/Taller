@@ -11,8 +11,8 @@ int main (){
 	cout<<"Digita un valor decimal \n";
 	cin>>dato;
 	
-	dato=dato/100;
-	cout<<"Al dividirlo en 100, la respuesta es: "<<dato;
+	dato=dato/200;
+	cout<<"Al dividirlo en 200, la respuesta es: "<<dato;
 	
 	
 	return 0;
