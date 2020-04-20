@@ -13,7 +13,7 @@ int main (){
 	
 	dato=dato/200;
 	cout<<"Al dividirlo en 200, la respuesta es: "<<dato;
-	
+	cout<<"Miguel es el mejor"
 	
 	return 0;
 }
